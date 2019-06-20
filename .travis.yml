@@ -11,5 +11,5 @@ on:
   branch: master
 deploy:
   provider: heroku
-  api_key: feaeee38-25df-4c42-a9c9-76431cf4166dœ
-  app: devops-react
+  api_key: HEROKU_KEY
+  app: HEROKU_APP
